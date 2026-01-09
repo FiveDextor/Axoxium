@@ -1,6 +1,6 @@
 type: SteamVent
-parent: 
-blendGroup: acid-soil
+parent: sandfloor
+blendGroup: sandfloor
 variants: 1
 attributes: {
   steam: 1
